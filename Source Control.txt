@@ -1,0 +1,25 @@
+First Project: LocalStack for AWS
+URL: https://github.com/localstack/localstack
+Interest: what interest me this project is giving the option to use a aws server localy without connecting in the internet.
+with this we can practice using aws, and help speed up testing workflow all in a local machine without connecting in the
+main server.
+
+Second Project: Raylib a programming library for c++
+URL: https://github.com/raysan5/raylib
+Interest: what interst me about this open source project is a programming library for c++ to create games without a game engine. 
+This project is for pure coders, a great way to practice and master writing code.
+
+Third Project: appwrite a end-to-end backend server
+URL: https://github.com/appwrite/appwrite
+Interest: what interst me about this project it abstracts the complexity and repetitiveness to build a modern bakend API from Scrath 
+and allow us to buld secure apps faster.
+
+Fourth Project: gitignore
+URL: https://github.com/github/gitignor
+Interest: The interest about this project that it git read a certain text file for the git repository not to track and folders that we dont want
+to be uploaded in our master respository.
+
+Fifth Project: Phoenix a Framework for web application
+URL: https://github.com/phoenixframework/phoenix
+Interest: what interest me about this project it help web designer to web application esayer. For example, creating web application quick with less 
+code and fewer parts.
